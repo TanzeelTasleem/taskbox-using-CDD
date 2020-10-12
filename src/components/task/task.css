@@ -1,0 +1,19 @@
+#main{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    border : "1px solid green";    
+}
+.task-item{
+    /* height: 40px; */
+    display: flex;
+    font-size: large;
+}
+#main:hover{
+    background-color: antiquewhite;
+}
+#task{
+    border: none;
+    background-color: none;
+}
+
